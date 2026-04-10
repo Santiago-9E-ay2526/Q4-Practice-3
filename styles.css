@@ -1,0 +1,17 @@
+.container {
+     background-color:rgb(180, 239, 219);
+     padding: 10px;
+     margin: 50px;
+     border-radius: 20px;
+     color: rgb(0, 0, 0);
+     text-align: center;
+}
+
+h1 {
+     text-align: center;
+     padding-top: 20px;
+}
+
+#lvlId {
+     width: 150px;
+}
